@@ -16,73 +16,73 @@ _Variations_ are things I can add to any trick to modify them and make them funn
 ## Variations
 
 - [x] 180 out.
-- [x] 180 out SW.
+- [x] SW 180 out.
 - [ ] Blind.
-- [ ] Blind SW.
+- [ ] SW Blind.
 - [ ] Shifty.
-- [ ] Shifty SW.
+- [ ] SW Shifty.
 - [x] Indy grab.
-- [ ] Indy grab SW.
+- [x] SW Indy grab.
 - [ ] Nose grab.
-- [ ] Nose grab SW.
+- [ ] SW Nose grab.
 
 ## Tricks
 
 - [x] FS 180 surface.
-- [x] FS 180 surface SW.
+- [x] SW FS 180 surface.
 - [x] BS 180 surface.
-- [ ] BS 180 surface SW.
+- [x] SW BS 180 surface.
 - [x] FS 360 surface.
-- [x] FS 360 surface SW.
+- [x] SW FS 360 surface.
 - [x] BS 360 surface.
-- [ ] BS 360 surface SW.
+- [x] SW BS 360 surface.
 - [x] Straight Air kicker.
 - [x] Straight Air kicker TS.
-- [x] Straight Air kicker SW.
-- [ ] Straight Air kicker SW TS.
+- [x] SW Straight Air kicker.
+- [x] SW Straight Air kicker TS.
 - [x] 180 kicker.
 - [x] 180 kicker TS.
-- [x] 180 kicker SW.
-- [ ] 180 kicker SW TS.
+- [x] SW 180 kicker.
+- [x] SW 180 kicker TS.
 - [ ] 360 kicker.
 - [ ] 360 kicker TS.
-- [ ] 360 kicker SW.
-- [ ] 360 kicker SW TS.
+- [ ] SW 360 kicker.
+- [ ] SW 360 kicker TS.
 - [x] Box slide.
 - [x] Box slide TS.
-- [x] Box slide SW.
-- [ ] Box slide SW TS.
+- [x] SW Box slide.
+- [ ] SW Box slide TS.
 - [x] Box 180.
 - [x] Box 180 TS.
-- [x] Box 180 SW.
-- [ ] Box 180 SW TS.
+- [x] SW Box 180.
+- [ ] SW Box 180 TS.
 - [x] Box 360.
 - [x] Box 360 TS.
-- [ ] Box 360 SW.
-- [ ] Box 360 SW TS.
+- [ ] SW Box 360.
+- [ ] SW Box 360 TS.
 - [x] Box 540.
 - [x] Box 540 TS.
-- [ ] Box 540 SW.
-- [ ] Box 540 SW TS.
+- [ ] SW Box 540.
+- [ ] SW Box 540 TS.
 - [x] Box 720.
 - [x] Box 720 TS.
-- [ ] Box 720 SW.
-- [ ] Box 720 SW TS.
+- [ ] SW Box 720.
+- [ ] SW Box 720 TS.
 - [x] Ollie.
-- [ ] Ollie SW.
+- [x] SW Ollie.
 - [x] Ollie 180.
-- [ ] Ollie 180 SW.
+- [x] SW Ollie 180.
 - [x] Powerslide.
-- [x] Powerslide SW.
+- [x] SW Powerslide.
 - [ ] Tantrum.
-- [ ] Tantrum SW.
+- [ ] SW Tantrum.
 - [ ] TS Backroll.
-- [ ] TS Backroll SW.
+- [ ] SW TS Backroll.
 - [ ] Frontroll.
-- [ ] Frontroll SW.
+- [ ] SW Frontroll.
 - [ ] Scarecrow.
 - [ ] Scarecrow 180.
 - [ ] Raley.
-- [ ] Raley SW.
+- [ ] SW Raley.
 - [ ] Backroll.
-- [ ] Backroll SW.
+- [ ] SW Backroll.
